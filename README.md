@@ -11,3 +11,4 @@ Repo compartido con skills de [Claude Code](https://claude.com/claude-code) para
 ## Skills disponibles
 
 - **`adapt-figma-sizes`** — adapta una pieza gráfica seleccionada en Figma a distintos tamaños (redes sociales, link previews, stories), rearmando el layout en vez de solo escalarlo.
+- **`design-system-foundations`** — referencia de foundations del design system (colores, tipografía, spacing, grid, elevation, border-radius). Fuente de verdad para cualquier valor visual.
